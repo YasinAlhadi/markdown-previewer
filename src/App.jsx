@@ -82,7 +82,7 @@ And here. | Okay. | I think we get it.
       </div>
       </div>
       <div className="links">
-        Created by: <a href="https://twitter.com/yasin_elhadi"> <img src="square-x-twitter.svg" alt="square-x-twitter" /> Yasin Alhadi</a> | Source Code: <a href="https://github.com/YasinAlhadi/random-quote"> <img src="github.svg" alt="github" /> Github</a>
+        Created by: <a href="https://twitter.com/yasin_elhadi"> <img src="square-x-twitter.svg" alt="square-x-twitter" /> Yasin Alhadi</a> | Source Code: <a href="https://github.com/YasinAlhadi/markdown-previewer"> <img src="github.svg" alt="github" /> Github</a>
       </div>
     </>
   )

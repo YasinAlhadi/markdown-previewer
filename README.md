@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple markdown previewer built with React and Redux. It was built as a project for the [freeCodeCamp](https://www.freecodecamp.org/) Front End Libraries Certification.
+This is a simple markdown previewer built with React. It was built as a project for the [freeCodeCamp](https://www.freecodecamp.org/) Front End Libraries Certification.
 
 ## Usage
 
@@ -14,4 +14,4 @@ To install this app, simply clone this repository and run `npm install` to insta
 
 ## Live Demo
 
-You can view a live demo of this app [here](https://markdown.herokuapp.com/).
+You can view a live demo of this app [here](https://yasinalhadi.github.io/markdown-previewer/).
